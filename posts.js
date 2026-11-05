@@ -25,5 +25,23 @@ const posts = [
     date: "2026-09-16T11:20:00",
     text: `I understand it can be difficult to balance both the kink and professional work we do at K-Industries, but when I ask someone to pass a microscope and they blurt out "yes Owner" it kind of makes my day. ESPECIALLY if they immediately run out of the room all red in the face afterwards. I see you.`,
     image: null
-  }
+  },
+  {
+    id: 3,
+    date: "2024-10-05T15:30:00",
+    text: `I keep a petrified thief in my office with just one hand un-petrified. I guess there's a lesson there. I dunno. It's mostly stretched in a middle finger when I'm around. 
+
+But sometimes 
+
+When I touch her just right 
+
+I can tell how much she likes it`,
+    image: null
+  },
+  {
+    id: 5,
+    date: "2024-10-04T13:21:00",
+    text: `Having to come to your robot gf's rescue because the beta branch hardware update locked her servos 💜`,
+    image: null
+  },
 ];
