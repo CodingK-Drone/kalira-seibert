@@ -39,7 +39,10 @@ function render(query = '') {
   empty.hidden = filtered.length !== 0;
   filtered.forEach(post => {
     const article = make('article','tweet');
-    article.append(make('div','avatar','✦'));
+    const avatar = make('img', 'avatar');
+avatar.src = 'images/profile.webp';
+avatar.alt = 'Kalira Seibert';
+article.append(avatar);
     const content = make('div','tweet-content');
     const header = make('div','tweet-header');
     header.append(make('strong','',profile.name),make('span','meta',`${profile.handle} · ${displayDate(post.date)}`));
