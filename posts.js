@@ -19,8 +19,8 @@ const posts = [
     date: "2026-10-03T06:52:00",
     text: "I'm not usually into memory loss/identity death I TFs, but there is something enticing about that final shudder before you completely, mentally shift into a character TF.",
     image: null
-  },
-
+  }
+  ,
     {
     id: 2,
     date: "2026-09-16T11:20:00",
