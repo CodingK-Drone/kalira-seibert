@@ -6,9 +6,11 @@
 // For a multi-tweet story, use thread: ["First tweet", "Second tweet"].
 
 const profile = {
-  name: "the writer",
-  handle: "@writer",
-  bio: "a collection of words worth keeping."
+  name: "Kalira Seibert",
+  handle: "@kalira_seibert",
+  bio: `Your favorite living mannequin.
+
+Now freeze, and join my gallery 💜`
 };
 
 const posts = [
