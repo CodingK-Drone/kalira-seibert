@@ -7,6 +7,8 @@ document.getElementById('profile-name').textContent = profile.name;
 document.getElementById('profile-handle').textContent = profile.handle;
 document.getElementById('profile-bio').textContent = profile.bio;
 document.getElementById('post-count').textContent = `${posts.length} posts`;
+document.getElementById('archive-count').textContent =
+  `${posts.length} ${posts.length === 1 ? 'post' : 'posts'}`;
 
 function make(tag, className, text) {
   const el = document.createElement(tag);
