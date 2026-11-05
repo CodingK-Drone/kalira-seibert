@@ -340,3 +340,18 @@ footer {
     font-size: 12px;
   }
 }
+
+.tabs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px;
+  background: #000;
+  border-bottom: 1px solid #2f3336;
+}
+
+#archive-count {
+  color: #e7e9ea;
+  font-size: 15px;
+  font-weight: bold;
+}
