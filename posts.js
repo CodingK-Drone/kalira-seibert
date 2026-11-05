@@ -20,20 +20,5 @@ const posts = [
     text: `I'm not usually into memory loss/identity death I TFs, but there is something enticing about that final shudder before you completely, mentally shift into a character TF.`,
     image: null
   },
-  {
-    id: 2,
-    date: "2026-10-28T10:00:00",
-    thread: [
-      `This is the first tweet of a longer story.`,
-      `This is the second tweet. You can add as many parts as you need.`,
-      `And this is how the story ends.`
-    ],
-    image: null
-  },
-  {
-    id: 1,
-    date: "2024-03-15",
-    text: `An older post. Even if you add it last, it appears in the right place by date.`,
-    image: null
-  }
+
 ];
