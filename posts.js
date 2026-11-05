@@ -44,4 +44,18 @@ I can tell how much she likes it`,
     text: `Having to come to your robot gf's rescue because the beta branch hardware update locked her servos 💜`,
     image: null
   },
+  {
+    id: 5,
+    date: "2024-09-30T07:15:00",
+    text: `Finally bought some model kits irl and there really is something intimate about slowly clipping parts off of the frame and assembling a cute robot girl.
+
+Would really love to do that to someone. Posed and inanimate,  a decoration I've made myself 💜`,
+    image: null
+  },
+  {
+    id: 6,
+    date: "2024-09-30T06:56:00",
+    text: `Convincing you to go for the full robot conversion so I can sneak in my own backdoor commands and take control of your body whenever I want 💜`,
+    image: null
+  },
 ];
