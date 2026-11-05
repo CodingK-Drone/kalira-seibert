@@ -16,8 +16,8 @@ Now freeze, and join my gallery 💜`
 const posts = [
   {
     id: 3,
-    date: "2026-11-04T14:35:00",
-    text: `This is an example of a recent post. Replace this with your friend's writing!`,
+    date: "2026-10-03T06:52:00",
+    text: `I'm not usually into memory loss/identity death I TFs, but there is something enticing about that final shudder before you completely, mentally shift into a character TF.`,
     image: null
   },
   {
