@@ -74,3 +74,135 @@
 .search-wrap input::placeholder {
   color: #71767b;
 }
+
+html,
+body {
+  background: #000000 !important;
+  color: #e7e9ea !important;
+}
+
+/* Main timeline */
+.timeline {
+  background: #000000 !important;
+  color: #e7e9ea;
+  border-left: 1px solid #2f3336;
+  border-right: 1px solid #2f3336;
+}
+
+/* Banner navigation */
+.topbar,
+.banner-nav {
+  background: transparent;
+  color: #ffffff;
+}
+
+.banner-nav h1,
+#top-name,
+#post-count {
+  color: #ffffff;
+}
+
+/* Profile section */
+.profile,
+.profile-details {
+  background: #000000 !important;
+  color: #e7e9ea;
+}
+
+.profile h2,
+#profile-name,
+#profile-bio {
+  color: #e7e9ea !important;
+}
+
+.profile .handle,
+#profile-handle {
+  color: #71767b !important;
+}
+
+/* Profile picture border */
+.profile .avatar.big {
+  border-color: #000000 !important;
+}
+
+/* Posts header */
+.tabs {
+  background: #000000 !important;
+  color: #e7e9ea !important;
+  border-bottom: 1px solid #2f3336;
+}
+
+.tabs span,
+#archive-count {
+  color: #e7e9ea !important;
+}
+
+/* Search section */
+.search-wrap {
+  background: #000000 !important;
+  border-bottom: 1px solid #2f3336;
+}
+
+.search-wrap input {
+  background: #202327 !important;
+  color: #e7e9ea !important;
+  border: 1px solid #2f3336;
+}
+
+.search-wrap input::placeholder {
+  color: #71767b;
+}
+
+/* Individual tweets */
+.tweet,
+#feed,
+.tweet-content,
+.thread-part {
+  background: #000000 !important;
+  color: #e7e9ea !important;
+}
+
+.tweet {
+  border-bottom: 1px solid #2f3336;
+}
+
+/* Tweet author */
+.tweet-header strong {
+  color: #e7e9ea !important;
+}
+
+/* Username and dates */
+.tweet-header .meta {
+  color: #71767b !important;
+}
+
+/* Tweet text */
+.tweet-text {
+  color: #e7e9ea !important;
+}
+
+/* Thread text and lines */
+.thread-part {
+  border-left-color: #2f3336;
+}
+
+.thread-label {
+  color: #1d9bf0;
+}
+
+/* Tweet action icons */
+.tweet-footer {
+  color: #71767b !important;
+}
+
+/* Images */
+.tweet-image {
+  border: 1px solid #2f3336;
+}
+
+/* Footer */
+footer,
+#empty {
+  background: #000000;
+  color: #71767b;
+}
