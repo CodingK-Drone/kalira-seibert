@@ -1,51 +1,157 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#ffffff">
-  <title>Writing Archive</title>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#000000">
+
+  <title>Kalira Seibert | Writing Archive</title>
+
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
+
   <main class="timeline">
-<header class="topbar">
-  <span class="back" aria-hidden="true">←</span>
-  <div>
-    <h1 id="top-name">YOUR NAME</h1>
-    <span id="post-count">Writing archive</span>
-  </div>
-</header>
 
-<div class="banner">
-  <img src="images/banner.webp" alt="Profile banner">
-</div>
+    <!-- BANNER WITH NAME AND SEARCH ICON -->
+    <div class="banner">
 
-<section class="profile">
-  <img
-    src="images/profile.webp"
-    class="avatar big"
-    alt="Profile picture"
-  >
+      <img
+        src="images/banner.webp"
+        alt="Profile banner"
+      >
 
-  <h2 id="profile-name">Kalira Seibert</h2>
+      <header class="banner-nav">
 
-  <p class="handle" id="profile-handle">@ukalira_seibert</p>
+        <div>
+          <h1 id="top-name">Kalira Seibert</h1>
+          <span id="post-count">Writing archive</span>
+        </div>
 
-  <p id="profile-bio">
-    Your favorite living mannequin.
+        <button
+          class="search-button"
+          id="search-button"
+          type="button"
+          aria-label="Search archive"
+          aria-expanded="false"
+          aria-controls="search-wrap"
+          onclick="toggleSearch()"
+        >
+          <svg
+            width="24"
+            height="24"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+          >
+            <circle cx="11" cy="11" r="7"></circle>
+            <path d="M20 20l-4-4"></path>
+          </svg>
+        </button>
 
-    Now freeze, and join my gallery 💜
-  </p>
-</section>
-What to customize
-    <nav class="tabs"><span>Posts</span></nav>
-    <div class="search-wrap"><label for="search">Search posts</label><input id="search" type="search" placeholder="Search the archive…"></div>
-    <section id="feed" aria-label="Archived posts"></section>
-    <p id="empty" hidden>No posts found.</p>
-    <footer>Preserved with care.</footer>
+      </header>
+
+    </div>
+
+    <!-- PROFILE INFORMATION -->
+    <section class="profile">
+
+      <img
+        src="images/profile.webp"
+        class="avatar big"
+        alt="Kalira Seibert's profile picture"
+      >
+
+      <div class="profile-details">
+
+        <h2 id="profile-name">Kalira Seibert</h2>
+
+        <p class="handle" id="profile-handle">
+          @kalira_seibert
+        </p>
+
+        <p id="profile-bio">Your favorite living mannequin.
+
+Now freeze, and join my gallery 💜</p>
+
+      </div>
+
+    </section>
+
+    <!-- POSTS TAB -->
+    <nav class="tabs">
+      <span>Posts</span>
+    </nav>
+
+    <!-- SEARCH BAR -->
+    <div
+      class="search-wrap"
+      id="search-wrap"
+      hidden
+    >
+      <label for="search">Search posts</label>
+
+      <input
+        id="search"
+        type="search"
+        placeholder="Search the archive..."
+      >
+    </div>
+
+    <!-- ARCHIVED POSTS -->
+    <section
+      id="feed"
+      aria-label="Archived posts"
+    ></section>
+
+    <p id="empty" hidden>
+      No posts found.
+    </p>
+
+    <!-- FOOTER -->
+    <footer>
+      Preserved with care.
+    </footer>
+
   </main>
+
+  <!-- WEBSITE SCRIPTS -->
   <script src="posts.js"></script>
   <script src="script.js"></script>
+
+  <!-- SEARCH BUTTON -->
+  <script>
+    function toggleSearch() {
+      const searchBox =
+        document.getElementById("search-wrap");
+
+      const searchButton =
+        document.getElementById("search-button");
+
+      searchBox.hidden = !searchBox.hidden;
+
+      searchButton.setAttribute(
+        "aria-expanded",
+        String(!searchBox.hidden)
+      );
+
+      if (!searchBox.hidden) {
+        document.getElementById("search").focus();
+      } else {
+        const searchInput =
+          document.getElementById("search");
+
+        searchInput.value = "";
+        searchInput.dispatchEvent(
+          new Event("input", { bubbles: true })
+        );
+      }
+    }
+  </script>
+
 </body>
 </html>
