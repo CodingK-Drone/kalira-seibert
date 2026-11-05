@@ -355,3 +355,67 @@ footer {
   font-size: 15px;
   font-weight: bold;
 }
+
+html, body, .timeline {
+  background-color: #000 !important;
+  color: #e7e9ea !important;
+}
+
+.profile,
+.profile-details,
+.tabs,
+#feed,
+.tweet,
+.tweet-content,
+.thread-part,
+footer {
+  background-color: #000 !important;
+  color: #e7e9ea !important;
+}
+
+/* PROFILE TEXT */
+
+.profile h2,
+#profile-name,
+#profile-bio,
+.tabs span,
+.tweet-header strong,
+.tweet-text {
+  color: #e7e9ea !important;
+}
+
+/* SECONDARY TEXT */
+
+.handle,
+#profile-handle,
+#archive-count,
+.tweet-header .meta,
+.tweet-footer {
+  color: #71767b !important;
+}
+
+/* DARK BORDERS */
+
+.timeline,
+.tabs,
+.tweet,
+.thread-part {
+  border-color: #2f3336 !important;
+}
+
+/* KEEP PROFILE PICTURE BORDER BLACK */
+
+.profile .avatar.big {
+  border-color: #000 !important;
+}
+
+/* DARK SEARCH BAR */
+
+.search-wrap {
+  background: #000 !important;
+}
+
+.search-wrap input {
+  background: #202327 !important;
+  color: #e7e9ea !important;
+}
