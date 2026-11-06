@@ -114,4 +114,69 @@ A heartbeat.
 She opens her eyes. The sound fades. She is plastic.`,
   image: null
 },
+  {
+  id: 13,
+  date: "2024-09-07T09:46:00",
+  text: `A party where everyone is infected with a curse that slowly petrifies you when you're not being looked at. The entire party is just a constant fight for attention. 
+Ironically, those nearly completely petrified get all the attention and teasing.`,
+  image: null
+},
+  {
+  id: 14,
+  date: "2024-09-03T17:56:00",
+  text: `Kalira always puts effort into her transformations.
+
+Unless you piss her off. Then you're either ending up an absolute mess of a statue, or she's spending the next week hate-focusing you into the most embarrassing thing she can imagine.`,
+  image: null
+},
+  {
+  id: 15,
+  date: "2024-09-03T17:50:00",
+  text: `Goblins are cute, yeah, but something about a kobold just SCREAMS "grab me and transform me into something right now"`,
+  image: null
+},
+  {
+  id: 16,
+  date: "2024-09-03T17:48:00",
+  text: `There. Not so bad, right?
+Oh, shush. I know, you're sooo scary and powerful, something-something mumble-mumble. Yell and curse at me all you want; I can't understand any of it anyway. Didn't you just watch me finish coating you? 
+
+Besides, you look good as a chocolate bunny 💜`,
+  image: null
+},
+  {
+  id: 17,
+  date: "2024-09-03T17:48:00",
+  text: `There. Not so bad, right?
+Oh, shush. I know, you're sooo scary and powerful, something-something mumble-mumble. Yell and curse at me all you want; I can't understand any of it anyway. Didn't you just watch me finish coating you? 
+
+Besides, you look good as a chocolate bunny 💜`,
+  image: null
+},
+  {
+  id: 18,
+  date: "2024-09-01T23:45:00",
+  text: `Being Kalira's roommate means putting up with her occasionally coming home with a bag full of cute girls she found at the mall and turned into figurines.
+She'll turn them back eventually, but the ones that liked it might stay for a while.`,
+  image: null
+},
+  {
+  id: 19,
+  date: "2024-09-01T04:27:00",
+  text: `A K-Doll in an industrial press.
+Its form squishes slightly, before a horrible metallic screeching echoes through the room, gears churning horribly.
+"Stop," Kalira commands. The press releases the doll, dizzy but unharmed.
+"Good, perfect," Kalira smiles. "Next test: freezing."`,
+  image: null
+},  
+  {
+  id:20,
+  date: "2024-08-31T21:17:00",
+  thread: [
+    `Kalira looks in the mirror. A manufactured face stares back. Glossy, perfectly even skin, no marks or blemishes. Her makeup is as permanent as her body; plump purple lips, slightly shinier than her skin twist and move like real lips. Black plastic lashes surround ice blue eyes.`,
+
+    `She blinks, eyes searching but irises never refocusing - just painted orbs. A wave of emotion passes over her but no tears form in her eyes. This was not the face she was born with. She can't remember it, but she knows it was taken from her. This face, though... This is Kalira.`,
+  ],
+  image: null
+},
 ];
