@@ -419,3 +419,10 @@ footer {
   background: #202327 !important;
   color: #e7e9ea !important;
 }
+.pinned-label {
+  color: #a98bff;
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  margin-left: 48px;
+}
