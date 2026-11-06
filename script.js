@@ -36,7 +36,12 @@ function addImages(parent, post) {
 function render(query = '') {
   feed.replaceChildren();
   const q = query.trim().toLowerCase();
-  const sorted = [...posts].sort((a,b) => new Date(b.date) - new Date(a.date));
+  const sorted = [...posts].sort((a, b) => {
+  if (a.pinned && !b.pinned) return -1;
+  if (!a.pinned && b.pinned) return 1;
+
+  return new Date(b.date) - new Date(a.date);
+});
   const filtered = sorted.filter(post => [post.text || '', ...(post.thread || [])].join(' ').toLowerCase().includes(q));
   empty.hidden = filtered.length !== 0;
   filtered.forEach(post => {
