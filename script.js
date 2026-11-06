@@ -46,9 +46,12 @@ function render(query = '') {
   empty.hidden = filtered.length !== 0;
   filtered.forEach(post => {
     const article = make('article','tweet');
-    if (post.pinned) {
-  article.append(make('div', 'pinned-label', '📌 Pinned'));
+ if (post.pinned) {
+  const pin = make('div', 'pinned-label');
+  pin.innerHTML = '📌 <span>Pinned</span>';
+  content.append(pin);
 }
+    const content = make('div','tweet-content');
     const avatar = make('img', 'avatar');
 avatar.src = 'images/profile.webp';
 avatar.alt = 'Kalira Seibert';
