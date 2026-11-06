@@ -64,7 +64,7 @@ Would really love to do that to someone. Posed and inanimate,  a decoration I've
   pinned: true,
   text: `Hello, and welcome to my library. Here you'll find many of the posts, thoughts, and short stories I've written over the years. Feel free to peruse at your leisure, or stay if you wish. 💜 
   
-    This is an archive that was put together for me by a very diligent (and squirmy) little drone. Make sure to thank it if you see it cleaning.`,
+This is an archive that was put together for me by a very diligent (and squirmy) little drone. Make sure to thank it if you see it cleaning.`,
   image: null
 },
   {
