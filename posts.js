@@ -179,4 +179,43 @@ Its form squishes slightly, before a horrible metallic screeching echoes through
   ],
   image: null
 },
+  {
+  id: 21,
+  date: "2024-08-31T09:15:00",
+  text: `Imagine being captured by a cult and transformed into a gigantic statue depicting their goddess. You're still conscious, and they didn't brainwash you at all. You can only stare forward, trapped in a voluptuous figure as cultists worship you without your consent.`,
+  image: null
+},  
+  {
+  id: 22,
+  date: "2024-08-31T09:13:00",
+  text: `It's challenging writing kinky posts that could apply to any gender, but it's a challenge I enjoy. Sometimes I do just want to transform a fem subject but most of the time I try to keep it ambiguous. My hope is that everyone can feel included.`,
+  image: null
+},  
+  {
+  id: 22,
+  date: "2024-08-31T07:52:00",
+  text: `I touch your thigh, goosebumps becoming hard and smooth, skin transforming to plastic. Gently, I stroke between your legs as your sensitive areas are sealed away. You arch your back, moaning, your last movements before your body locks in place.
+
+A mannequin mid-orgasm.`,
+  image: null
+},  
+  {
+  id: 23,
+  date: "2024-08-31T00:27:00",
+  text: `"Kalira, why don't you practice any actual magic?"
+"I can make gadgets out of spare parts, I know how to use magical devices, I'm attuned to several occult relics, and multiple gods are either under my control or owe me favors. At what point does that become 'actual magic'?"`,
+  image: null
+},  
+  {
+  id: 24,
+  date: "2024-08-31T00:02:00",
+  text: `Making an afternoon out of just sitting and watching you struggle and snap back to place on the fixed pose pedestal.`,
+  image: null
+},  
+  {
+  id: 25,
+  date: "2024-08-30T06:20:00",
+  text: `The constant tug of war in my head between making a character mouthless or giving them big kissy lips`,
+  image: null
+},  
 ];
