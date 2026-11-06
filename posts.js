@@ -78,13 +78,40 @@ You are no longer a person. You are an animate doll. A photo opportunity. A char
   {
   id: 9,
   date: "2026-11-05T16:17:00",
-  text: ` Kalira walks through her apartment, her hard plastic feet (permanently arched, of course) clack on the wood floor. She holds out a hand and...
+  text: `Kalira walks through her apartment, her hard plastic feet (permanently arched, of course) clack on the wood floor. She holds out a hand and...
 
 Stops.
 
 She doesn't breathe, she doesn't twitch. She simply stops moving by choice. After a still moment she moves again, like taking a breath. She smiles.`,
   image: null
 },
- 
-
+  {
+  id: 10,
+  date: "2024-09-17T18:00:00",
+  text: `Your best friend helps you with your resume and you find out it somehow actually changes your reality.
+It's only when they make changes.
+It's only for you.
+After finishing your five year internship as a sex shop mannequin, you're going to have to try some things.`,
+  image: null
+},
+  {
+  id: 11,
+  date: "2024-09-16T11:06:00",
+  text: `ASFR ASMR
+The soft crackling of skin turning to stone. 
+The quiet moan as you feel your stomach turn cold and hard. 
+The quickened, excited breaths.
+The final "A-aah...!" before you can no longer speak.
+The following nine minutes of silence with rain in the background.`,
+  image: null
+},
+  {
+  id: 12,
+  date: "2024-09-09T06:53:00",
+  text: `Kalira sits in a chair, listening to music from her childhood. She closes her eyes and lets the sound wash over her.
+Her arms tingle. The hair on her neck stands on end. A rhythmic thumping echoes through her body.
+A heartbeat.
+She opens her eyes. The sound fades. She is plastic.`,
+  image: null
+},
 ];
