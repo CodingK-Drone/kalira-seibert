@@ -69,10 +69,22 @@ This is an archive that was put together for me by a very diligent (and squirmy)
 },
   {
   id: 8,
-  date: "2024-09-24T12:06:06",
+  date: "2024-09-24T12:06:00",
   text: `A soft click behind your ear as the kigu mask is locked on. A small interlocking piece of metal is what locks you out from the outside world. Seals your humanity inside.
 
 You are no longer a person. You are an animate doll. A photo opportunity. A character.`,
   image: null
 },
+  {
+  id: 9,
+  date: "2026-11-05T16:17:00",
+  text: ` Kalira walks through her apartment, her hard plastic feet (permanently arched, of course) clack on the wood floor. She holds out a hand and...
+
+Stops.
+
+She doesn't breathe, she doesn't twitch. She simply stops moving by choice. After a still moment she moves again, like taking a breath. She smiles.`,
+  image: null
+},
+ 
+
 ];
