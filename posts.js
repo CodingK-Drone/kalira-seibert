@@ -68,7 +68,7 @@ Would really love to do that to someone. Posed and inanimate,  a decoration I've
   image: null
 },
   {
-  id: 7,
+  id: 8,
   date: "2024-09-24T12:06:06",
   text: `A soft click behind your ear as the kigu mask is locked on. A small interlocking piece of metal is what locks you out from the outside world. Seals your humanity inside.
 
