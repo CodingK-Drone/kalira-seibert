@@ -58,4 +58,21 @@ Would really love to do that to someone. Posed and inanimate,  a decoration I've
     text: `Convincing you to go for the full robot conversion so I can sneak in my own backdoor commands and take control of your body whenever I want 💜`,
     image: null
   },
+  {
+  id: 7,
+  date: "2026-11-05T12:00:00",
+  pinned: true,
+  text: `Hello, and welcome to my library. Here you'll find many of the posts, thoughts, and short stories I've written over the years. Feel free to peruse at your leisure, or stay if you wish. 💜 
+  
+    This is an archive that was put together for me by a very diligent (and squirmy) little drone. Make sure to thank it if you see it cleaning.`,
+  image: null
+},
+  {
+  id: 7,
+  date: "2024-09-24T12:06:06",
+  text: `A soft click behind your ear as the kigu mask is locked on. A small interlocking piece of metal is what locks you out from the outside world. Seals your humanity inside.
+
+You are no longer a person. You are an animate doll. A photo opportunity. A character.`,
+  image: null
+},
 ];
