@@ -192,7 +192,7 @@ Its form squishes slightly, before a horrible metallic screeching echoes through
   image: null
 },  
   {
-  id: 22,
+  id: 23,
   date: "2024-08-31T07:52:00",
   text: `I touch your thigh, goosebumps becoming hard and smooth, skin transforming to plastic. Gently, I stroke between your legs as your sensitive areas are sealed away. You arch your back, moaning, your last movements before your body locks in place.
 
@@ -200,32 +200,32 @@ A mannequin mid-orgasm.`,
   image: null
 },  
   {
-  id: 23,
+  id: 24,
   date: "2024-08-31T00:27:00",
   text: `"Kalira, why don't you practice any actual magic?"
 "I can make gadgets out of spare parts, I know how to use magical devices, I'm attuned to several occult relics, and multiple gods are either under my control or owe me favors. At what point does that become 'actual magic'?"`,
   image: null
 },  
   {
-  id: 24,
+  id: 25,
   date: "2024-08-31T00:02:00",
   text: `Making an afternoon out of just sitting and watching you struggle and snap back to place on the fixed pose pedestal.`,
   image: null
 },  
   {
-  id: 25,
+  id: 26,
   date: "2024-08-30T06:20:00",
   text: `The constant tug of war in my head between making a character mouthless or giving them big kissy lips`,
   image: null
 },  
   {
-  id: 26,
+  id: 27,
   date: "2024-08-29T06:31:00",
   text: `The cement spray trap caught you by surprise, stiffening you as you turned away, arms failing to shield you. The problem is it never turned off. Coating you ceaselessly, layer after layer turning you from an adventurer to a statue to a vague shape to a cement obelisk.`,
   image: null
 },  
   {
-  id: 27,
+  id: 28,
   date: "2024-08-28T07:24:00",
   text: `I shouldn't have been patient with you, but I was. Until you started attacking customers right outside my store.
 
@@ -233,7 +233,7 @@ Now you look much nicer, don't you agree? Do you like the voice lines? I wrote t
   image: null
 },  
   {
-  id: 28,
+  id: 29,
   date: "2024-08-28T04:15:00",
   text: `Kalira walks down the street in December. It's snowing.
 She's wearing a furry jacket and beanie over her catsuit. She can't get cold, but she's always loved winter clothes.
@@ -242,19 +242,27 @@ She giggles. Winter makes her happy.`,
   image: null
 },  
   {
-  id: 29,
+  id: 30,
   date: "2024-08-26T10:59:00",
   text: `The sheer bolt of panic that hits you when you reach into your pocket at the grocery store and your dollified bff isn't there. They could be anywhere. Did you drop them in the store? The parking lot?!?
 Oh. Wrong pocket. Whoopsies. You look down at them. Still got that dumb smile.`,
   image: null
 },  
   {
-  id: 30,
+  id: 31,
   date: "2024-08-26T03:29:00",
   text: `"Wait why is the menu outside of the chamber?"
 "For customers to customize you after the coating process."
 "Cust..."
 "Customize you, yes. Without your input. You can only watch. I thought you'd like that."`,
+  image: null
+},  
+  {
+  id: 32,
+  date: "2024-08-25T23:40:00",
+  text: `Cursed plate trap. You've been here before. Your finger twitches. It's weak. You just need to focus on the counterspell. Easy enough. Quick time loop spell, rewind yourself back to before you stepped there...
+
+...Cursed plate trap. You've been here before.`,
   image: null
 },  
 ];
