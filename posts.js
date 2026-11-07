@@ -218,4 +218,43 @@ A mannequin mid-orgasm.`,
   text: `The constant tug of war in my head between making a character mouthless or giving them big kissy lips`,
   image: null
 },  
+  {
+  id: 26,
+  date: "2024-08-29T06:31:00",
+  text: `The cement spray trap caught you by surprise, stiffening you as you turned away, arms failing to shield you. The problem is it never turned off. Coating you ceaselessly, layer after layer turning you from an adventurer to a statue to a vague shape to a cement obelisk.`,
+  image: null
+},  
+  {
+  id: 27,
+  date: "2024-08-28T07:24:00",
+  text: `I shouldn't have been patient with you, but I was. Until you started attacking customers right outside my store.
+
+Now you look much nicer, don't you agree? Do you like the voice lines? I wrote them myself. Now you'll be a nice, welcoming presence for all my visitors.`,
+  image: null
+},  
+  {
+  id: 28,
+  date: "2024-08-28T04:15:00",
+  text: `Kalira walks down the street in December. It's snowing.
+She's wearing a furry jacket and beanie over her catsuit. She can't get cold, but she's always loved winter clothes.
+A snowflake lands on her nose. It doesn't melt.
+She giggles. Winter makes her happy.`,
+  image: null
+},  
+  {
+  id: 29,
+  date: "2024-08-26T10:59:00",
+  text: `The sheer bolt of panic that hits you when you reach into your pocket at the grocery store and your dollified bff isn't there. They could be anywhere. Did you drop them in the store? The parking lot?!?
+Oh. Wrong pocket. Whoopsies. You look down at them. Still got that dumb smile.`,
+  image: null
+},  
+  {
+  id: 30,
+  date: "2024-08-26T03:29:00",
+  text: `"Wait why is the menu outside of the chamber?"
+"For customers to customize you after the coating process."
+"Cust..."
+"Customize you, yes. Without your input. You can only watch. I thought you'd like that."`,
+  image: null
+},  
 ];
