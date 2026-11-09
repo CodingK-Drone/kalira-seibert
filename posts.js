@@ -265,4 +265,121 @@ Oh. Wrong pocket. Whoopsies. You look down at them. Still got that dumb smile.`,
 ...Cursed plate trap. You've been here before.`,
   image: null
 },  
+  { 
+  id: 33,
+  date: "2024-08-25T02:50:00",
+  text: `Petrification-obsessed supervillain touring Kalira's lab: Your statues all look lovely, but they're all so happy. Orgasmic, even. How do you get them to pose like that?
+
+Kalira, staring blankly: I ask them...? Just about everyone that works here is super horny. Just constantly.`,
+  image: null
+},  
+ { 
+  id: 34,
+  date: "2024-08-25T12:49:00",
+  text: `Idea: Powerful warrior forever sealed inside an embarrassingly curvy rubber drone suit. They can still kick anyone's ass, but they look like a toy.`,
+  image: null
+},  
+   { 
+  id: 35,
+  date: "2024-08-23T18:08:00",
+  text: `DBD but it's just Kalira chasing around lab interns and carrying them onto various statue plinths`,
+  image: null
+},  
+    { 
+  id: 36,
+  date: "2024-08-22T09:41:00",
+  text: `"Do you want me to rubberize your wounds, or heal them? Ask *nicely* next time."`,
+  image: null
+},  
+    { 
+  id: 37,
+  date: "2024-08-22T05:31:00",
+  text: `"Y-you can't prove I petrified those people! I'm innocent!"
+
+"10 kilos of Basilisk Mint was found in your home. There's only two things that's used for, and I don't see any llamas around here with indigestion. Cut the crap, who did you sell her to?!?"`,
+  image: null
+},  
+      { 
+  id: 38,
+  date: "2024-08-21T14:55:00",
+  text: `"I don't get it, it's just a mannequin!"
+"No, look: what mannequin has curves like that? This used to be someone. They were turned into this as a punishment. Get the leygraph from the c- wait, where'd the shopkeeper go? Get your gun, kid. Time to put that training to use."`,
+  image: null
+},  
+        { 
+  id: 39,
+  date: "2024-08-21T09:20:00",
+  text: `I'd love a TF crime drama.
+
+"Petrified woman, tipped over while walking..."
+"Wait, look at the arms. That's not how people walk. It looks like she was slowly petrified from the legs up, fell over while her arms could still move."
+"It wasn't a gorgon... Basilisk venom?"`,
+  image: null
+},  
+        { 
+  id: 40,
+  date: "2024-08-20T21:41:00",
+  text: `*warning sign depicting a grey figure, and a black figure looking at it with a question mark while a third figure with snakes on its head looms behind the second figure*
+
+"PETRIFICATION equals SILENCE
+Wear your TF alarm pins before entering!"`,
+  image: null
+},  
+      { 
+  id: 41,
+  date: "2024-08-20T21:28:00",
+  text: `Congratulations, I didn't think you'd have the mental acuity to shape yourself back into something resembling your natural form after being turned to slime. That must really be putting a strain on you.
+
+Let's turn the temperature down, hm? See if you can still escape?`,
+  image: null
+},  
+      { 
+  id: 42,
+  date: "2024-08-20T05:31:00",
+  text: `There's an Ifthish saying: "Nuun g'shevai", means "Heartbeat in stillness". The Ifth people saw petrification fetish as commonly as sex. The feeling of being locked in place made their heart palpate. I have an Ifth statue in my gallery; it might actually be a live princess...`,
+  image: null
+},  
+      { 
+  id: 43,
+  date: "2024-08-17T17:32:00",
+  text: `"The thing about magic is," Kalira says as she circles your struggling form, "taking away your ability to speak isn't the end, but your spells just don't have that *bite* anymore, right? Anyone with half - literally I only have half - a protection talisman can just shrug it off!"`,
+  image: null
+},  
+        { 
+  id: 44,
+  date: "2024-08-17T04:27:00",
+  text: `Kalira walks away as the encasement sets. Their features are completely hidden; just a vague grey humanoid shape, standing with a hand outstretched. It stands in an alleyway, left and forgotten. Kalira can be strict, but she has no patience for those who willingly cross her.`,
+  image: null
+}, 
+     { 
+  id: 45,
+  date: "2024-08-17T04:27:00",
+  thread: [
+    `Taking Kalira backstory questions if anyone has any 💜`,
+
+    `Q: What happened to the person who was turned into Kalira? Did she choose to become a living doll? Was she changed through malice? An accident?
+    
+    A: I've had ideas for a full story about this for a while so I don't want to spoil TOO much, but in Kalira's previous life she worked for a major corporation during a time when corporate warfare was a constant threat, and was victim to a very unlucky string of events.`,
+
+    `Q: Has she ever fantasized about ending up in a bitch suit of her own?
+     
+    A: Oh, very much 💜`,
+    
+    `Q: "Um Boss.. Please don't punish the Goblins for borrowing that Exoskeleton from the Lab.. some of them wants to feel tall" 
+    What's Kalira's thoughts on different species and how they act? Goblins are kleptomaniacs, Orcs are bullies, Nekomata tend to be lazy...?
+     
+   A:  Kalira finds all species fascinating, especially what each of their unique skills might bring to her lab.
+
+    Also how her experiments affect those species...`,
+
+    `Q:How much does she regret this transformation? Do people treat her any differently now that she’s a mannequin? What sorts of challenges does it pose to her daily life, and her interactions with other people? Is she looking for ways to reverse this, or even afflict others with it?
+    
+    A: Due to a combination of slight memory loss and the method that she was transformed, nobody knows who she used to be. She knows she wasn't always a mannequin, but any hints of her previous life are buried and gone. I might write more about people's reactions to her. I like that.`,
+
+   `Q: “Nobody knows who she used to be” so some sort of reality change of sorts? Does she want to find out who she used to be, or is this not at all a concern? I’m fascinated about the memory-warping aspects of her transformation now.
+   
+    A: It wasn't a reality warp; something caused a corporation to set things in motion to have all of her records erased. She was meant to be turned into a mind wiped doll, but something stopped the process partway. So she knows something's missing, she just can't find the pieces.`,
+  ],
+  image: null
+},    
 ];
